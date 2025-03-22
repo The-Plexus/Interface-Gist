@@ -5,7 +5,7 @@
 set -e
 
 DEPLOY_DIR="./hunyuan-interface"
-MAIN_TS_URL="https://gist.githubusercontent.com/SoteFun/de450106cbdeecb3beda9a1feab79ab5/raw/424619b98a37d4e064101431e7417f7dc81eeb0d/main.ts"
+MAIN_TS_URL="https://raw.githubusercontent.com/The-Plexus/Interface-Gist/refs/heads/main/source/hunyuan/main.ts"
 
 # Display title
 echo "================================="
