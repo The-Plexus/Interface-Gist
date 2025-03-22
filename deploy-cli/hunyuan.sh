@@ -65,10 +65,7 @@ services:
   hunyuan2api:
     build: .
     ports:
-      - target: 8000
-        published: "${PORT}"
-        protocol: tcp
-        mode: host
+      - ${PORT}:8000
     restart: always
 EOF
 
