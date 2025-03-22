@@ -27,7 +27,7 @@ case $choice in
     1)
         echo "Deploying Hunyuan interface..."
         echo "Downloading deployment script from GitHub..."
-        curl -s https://raw.githubusercontent.com/The-Plexus/Interface-Gist/refs/heads/main/deploy-cli/hunyuan.sh | bash
+        bash -c "$(curl -s https://raw.githubusercontent.com/The-Plexus/Interface-Gist/refs/heads/main/deploy-cli/hunyuan.sh)"
         ;;
     *)
         echo "Invalid option. Please run the script again and select a valid option."
