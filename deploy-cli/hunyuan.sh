@@ -58,10 +58,9 @@ EOF
 read -p "Enter the port to expose (default: 8000): " PORT
 PORT=${PORT:-8000}
 
-# Create docker-compose.yml
+# Create docker-compose.yml (使用新版格式，移除了version字段)
 echo "Creating docker-compose.yml..."
 cat > "$DEPLOY_DIR/docker-compose.yml" << EOF
-version: '3'
 services:
   hunyuan2api:
     build: .
