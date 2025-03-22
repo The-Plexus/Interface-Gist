@@ -56,7 +56,9 @@ EOF
 
 # Ask for port configuration
 read -p "Enter the port to expose (default: 8000): " PORT
-PORT=${PORT:-8000}
+if [ -z "$choice" ]; then
+    choice="8000"
+fi
 
 # 修复：确保端口变量被正确替换
 echo "Creating docker-compose.yml..."
