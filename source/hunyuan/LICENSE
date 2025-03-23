@@ -1,0 +1,91 @@
+Copyright (c) 2025 Neuroplexus
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and noninfringement. In no event shall the
+authors or copyright holders be liable for any claim, damages or other
+liability, whether in an action of contract, tort or otherwise, arising from,
+out of or in connection with the software or the use or other dealings in the
+software.
+
+This software is licensed under the Neuroplexus Non-Commercial Share-Alike License (the "License");
+you may not use this file except in compliance with the License.
+
+Terms and Conditions:
+
+1. Non-Commercial Use Only:
+
+   This software and its associated documentation (collectively, the "Software")
+   are strictly prohibited from being used, directly or indirectly, for any
+   commercial purpose.  "Commercial purpose" includes, but is not limited to:
+     *  Use in a product or service offered for sale or other consideration.
+     *  Use in a product or service that provides a competitive advantage in a
+        commercial setting.
+     *  Use in internal business operations that generate revenue or provide
+        cost savings directly attributable to the Software.
+     *  Use in training or educational programs for which a fee is charged.
+     *  Use to support any for-profit entity, regardless of whether the software
+        itself is sold.
+     * Reselling, or sublicensing this software.
+    If you require a commercial license, please contact Neuroplexus at isneuroplexus@duck.com.
+
+2. Attribution and Original Author/Project Notice:
+
+   Any use, distribution, or modification of the Software (in whole or in part)
+   must prominently include the following:
+     *  The original copyright notice: `Copyright (c) 2025 Neuroplexus`
+     *  A clear and unambiguous statement identifying Neuroplexus as the original
+        author of the Software.
+     *  A link or reference to the original project location (e.g., a URL to a
+        repository, if applicable).  For example: "Based on the Neuroplexus
+        HuanyuanInterface project, available at https://linux.do/t/topic/507324.
+
+3. Share-Alike (Derivative Works):
+
+   If you modify the Software, any distribution of the modified version (the
+   "Derivative Work") must be licensed under the *same* terms and conditions as
+   this License (Neuroplexus Non-Commercial Share-Alike License).  This means:
+     *  The Derivative Work must also be restricted to non-commercial use.
+     *  The Derivative Work must include the attribution requirements outlined
+        in Section 2.
+     *  The source code of the Derivative Work must be made available under
+        this same License.
+
+4. Modification Notices:
+
+    Any Derivative Work must include prominent notices stating that you have
+    modified the Software, and the date and nature of the changes made. These
+    notices must be placed:
+      *  In the source code files that have been modified.
+      *  In a separate `CHANGELOG` or `MODIFICATIONS` file included with the
+         Derivative Work's distribution.  This file should clearly list all
+         modifications made to the original Software.
+
+5. No Endorsement:
+
+   The names of Neuroplexus or its contributors may not be used to endorse or
+   promote products derived from this Software without specific prior written
+   permission.
+
+6. Termination:
+
+   This License automatically terminates if you violate any of its terms and
+   conditions.  Upon termination, you must cease all use, distribution, and
+   modification of the Software and destroy all copies in your possession.
+
+7.  Severability:
+
+   If any provision of this License is held to be invalid or unenforceable, the
+   remaining provisions shall remain in full force and effect.
+
+8. Governing Law:
+
+    This License shall be governed by and construed in accordance with the laws
+    of New South Wales, Australia, without
+    regard to its conflict of law principles.
+
+9. Entire Agreement:
+
+	This license constitutes the entire agreement with respect to the software.
+	Neuroplexus is not bound by any additional provisions that may appear in any
+	communication from you.
